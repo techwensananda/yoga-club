@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "sanskrit_name": "Navasana",
+    "english_name": "Boat",
+    "img_url": "https://img.freepik.com/free-photo/young-attractive-woman-paripurna-navasana-pose-against-floor-window_1163-5279.jpg?w=826&t=st=1664448803~exp=1664449403~hmac=f220c35e053322cf894bb44c93e20e180f86775e83b964d3eb4e87a816a163a1",
+    "created_at": "2018-07-01T04:32:01.698Z",
+    "updated_at": "2018-07-01T04:32:01.698Z",
+    "time": "15",
+    "click": 0
+  },
+  {
+    "id": 2,
+    "sanskrit_name": "Ardha Navasana",
+    "english_name": "Half-Boat",
+    "img_url": "https://img.freepik.com/free-photo/handsome-caucasian-man-sportwear-practicing-yoga-doing-boat-balance-pose-living-room-home_554837-738.jpg?w=826&t=st=1664453005~exp=1664453605~hmac=8de577b49918d00d22eaa5a7f06c20cb7574e55f6068a852f2819b1758397c90",
+    "created_at": "2018-07-01T04:32:01.770Z",
+    "updated_at": "2018-07-01T04:32:01.770Z",
+    "time": "10",
+    "click": 0
+  },
+  {
+    "id": 3,
+    "sanskrit_name": "Dhanurasana",
+    "english_name": "Bow",
+    "img_url": "https://img.freepik.com/free-photo/young-woman-doing-natarajasana-exercise_1163-5070.jpg?w=826&t=st=1664449083~exp=1664449683~hmac=d82dc8eb85ee2c924df8cce1ba7ee38a370ed531e18293800f00fdf979f64353",
+    "created_at": "2018-07-01T04:32:01.809Z",
+    "updated_at": "2018-07-01T04:32:01.809Z",
+    "time": "15",
+    "click": 0
+  },
+  {
+    "id": 4,
+    "sanskrit_name": "Setu Bandha Sarvangasana",
+    "english_name": "Bridge",
+    "img_url": "https://img.freepik.com/free-photo/young-woman-one-legged-wheel-pose-grey-studio-background_1163-2494.jpg?w=826&t=st=1664449127~exp=1664449727~hmac=5a0ed6b77268699a853c3239ff0f218d2501281a87fb97c5eb19cdaff65b77b2",
+    "created_at": "2018-07-01T04:32:01.833Z",
+    "updated_at": "2018-07-01T04:32:01.833Z",
+    "time": "20",
+    "click": 0
+  },
+  {
+    "id": 5,
+    "sanskrit_name": "Baddha Konasana",
+    "english_name": "Butterfly",
+    "img_url": "https://img.freepik.com/free-photo/full-length-side-view-beautiful-young-fit-woman-sportswear-working-out-indoors-practicing-yoga-exercise-mat-doing-downward-facing-dog-pose-adho-mukha-svanasana-sun-salutation-pose_343059-3104.jpg?w=826&t=st=1664449154~exp=1664449754~hmac=4bcbe0d220255c72db382d9f4bf1d111c12adeadb0bad95300599789b75cdf37",
+    "created_at": "2018-07-01T04:32:01.849Z",
+    "updated_at": "2018-07-01T04:32:01.849Z",
+    "time": "15",
+    "click": 0
+  },
+  {
+    "id": 6,
+    "sanskrit_name": "Ustrasana",
+    "english_name": "Camel",
+    "img_url": "https://img.freepik.com/free-photo/young-woman-ustrasana-pose-grey-studio-background_1163-2503.jpg?w=826&t=st=1664449188~exp=1664449788~hmac=888f409612dfcc7d248492115153292e8d263736cd67f0f8cb46b011b8fa3a74",
+    "created_at": "2018-07-01T04:32:01.886Z",
+    "updated_at": "2018-07-01T04:32:01.886Z",
+    "time": "10",
+    "click": 0
+  }
+]
